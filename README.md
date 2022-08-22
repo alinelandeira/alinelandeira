@@ -1,7 +1,7 @@
 <h2>Olá! Eu sou a Aline e bem vindo(a) ao meu Github.😄</h2>
 
 
-- Me redescobrindo no universo da tecnologia.
+- Me reprogramando no universo da tecnologia.
 - Estudos focados em Javascript | CSS| HTML
 
 <div align="center">
