@@ -1,8 +1,8 @@
 <h2>Olá! Eu sou a Aline e bem vindo(a) ao meu Github.😄</h2>
 
 
-- Me reprogramando no universo da tecnologia.
-- Estudos focados em Javascript | CSS| HTML
+- Me redescobrindo no universo da tecnologia.
+- Estudos focados em HTML | CSS| JavaScript
 
 <div align="center">
  <a href="https://github.com/alinelandeira">
