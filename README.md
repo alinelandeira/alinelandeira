@@ -1,8 +1,8 @@
-<h2>Olá! Eu sou a Aline e bem vindo(a) ao meu Github.😄</h2>
+<h2>Sobre mim:</h2>
+<p>Ei, eu sou a Aline, tenho 29 anos. Atualmente sou aluna do bootcamp da Laboratoria Brasil 💻</p>
 
-
-- Me redescobrindo no universo da tecnologia.
-- Estudos focados em HTML | CSS| JavaScript
+ <li> Me redescobrindo no universo da Tecnologia.</li>
+ <li> Estudos focados em Desenvolvimento Web com HTML, CSS, Javascript. </li>
 
 ##
   
