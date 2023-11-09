@@ -1,19 +1,22 @@
-<h2>- Sobre mim:</h2>
+ Olá, seja bem vindo(a)!
+
+<h2>-Sobre mim:</h2>
 
  <li> Me redescobrindo no universo da Tecnologia.💻</</li>
- <li> Estudos focados em Desenvolvimento Web com HTML, CSS, Javascript. </li>
+
+ <br><br>
 
 ## - Habilidades
 <div>
-<img title="HTML5" alt="Favicon do HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" / width="40" height="40">  
-<img title="CSS3" alt="Favicon do CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" / width="40" height="40">  
-<img title="JavaScript" alt="Favicon do JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" / width="40" height="40">  
-<img title="Git" alt="Favicon do Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="40" height="40">  
-<img title="GitHub" alt="Favicon do Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="40" height="40"> 
-<img title="Figma" alt="Favicon do Figma" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" / width="40" height="40"> 
-<img title="Trello" alt="Favicon do Trello" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg" / width="40" height="40"> 
+<img title="HTML5" alt="Favicon do HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" / width="30" height="30" >  
+<img title="CSS3" alt="Favicon do CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" / width="30" height="30">  
+<img title="JavaScript" alt="Favicon do JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" / width="30" height="30">  
+<img title="Git" alt="Favicon do Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="30" height="30">  
+<img title="GitHub" alt="Favicon do Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="30" height="30"> 
+<img title="Figma" alt="Favicon do Figma" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" / width="30" height="30"> 
+<img title="Trello" alt="Favicon do Trello" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg" / width="30" height="30"> 
 </div>
-##
+<br><br>
   
 <div>
  <a href="https://www.linkedin.com/in/www.linkedin.com/in/aline-landeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
