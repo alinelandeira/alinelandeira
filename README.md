@@ -1,7 +1,6 @@
 <h2>Sobre mim:</h2>
-<p>Ei, eu sou a Aline, tenho 29 anos. Atualmente sou aluna do bootcamp da Laboratoria Brasil 💻</p>
 
- <li> Me redescobrindo no universo da Tecnologia.</li>
+ <li> Me redescobrindo no universo da Tecnologia.💻</</li>
  <li> Estudos focados em Desenvolvimento Web com HTML, CSS, Javascript. </li>
 
 ##
