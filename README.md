@@ -1,26 +1,26 @@
- Olá, seja bem vindo(a)!
+<h1 align="center">Olá, sou Aline Landeira 👋🏻</h1>
 
-<h2>-Sobre mim:</h2>
+<h2 align="center">Me redescobrindo no universo da tecnologia.</h2>
 
- <li> Me redescobrindo no universo da Tecnologia.💻</</li>
+<h3 align="center">Desenvolvedora | Brasil | RJ</h3>
 
- <br><br>
 
-## - Habilidades
-<div>
-<img title="HTML5" alt="Favicon do HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" / width="30" height="30" >  
-<img title="CSS3" alt="Favicon do CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" / width="30" height="30">  
-<img title="JavaScript" alt="Favicon do JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" / width="30" height="30">  
-<img title="Git" alt="Favicon do Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" / width="30" height="30">  
-<img title="GitHub" alt="Favicon do Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" / width="30" height="30"> 
-<img title="Figma" alt="Favicon do Figma" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" / width="30" height="30"> 
-<img title="Trello" alt="Favicon do Trello" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg" / width="30" height="30"> 
-</div>
-<br><br>
-  
-<div>
- <a href="https://www.linkedin.com/in/www.linkedin.com/in/aline-landeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/alinelandeiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:aline.landeira000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+<h2>Conecte-se comigo:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-landeira/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aline.landeira000@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@alinelandeira/)
+
+
+<h2>Habilidades:</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-00FA9A?style=for-the-badge&logo=figma&logoColor=purple)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<h2>GitHub Stats:</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinelandeira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8B008B&title_color=8B008B&text_color=FFF)
 
