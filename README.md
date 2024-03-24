@@ -1,8 +1,8 @@
 ## Olá, visitante! Meu nome é <strong>Aline Landeira</strong>! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
 <h2>Desenvolvedora | Brasil | RJ</h2>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
   Sou Carioca, tenho 30 anos e sou <strong>Desenvolvedora Front-End</strong>.
